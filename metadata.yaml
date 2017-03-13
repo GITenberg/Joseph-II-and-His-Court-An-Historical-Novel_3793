@@ -1,5 +1,5 @@
 _repo: Joseph-II-and-His-Court-An-Historical-Novel_3793
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Chaudron, A. de V. (Adelaide de Vendel)
@@ -8,6 +8,9 @@ contributor:
     - Chaudron, Adelaide de Vendel
     gutenberg_agent_id: '37834'
     url: http://www.gutenberg.org/2009/agents/37834
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mühlbach, L. (Luise)
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/830
     wikipedia: http://de.wikipedia.org/wiki/Luise_M%C3%BChlbach
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3793#Joseph-II-and-His-Court-An-Historical-Novel
 gutenberg_issued: '2003-02-01'
 gutenberg_type: Text
 identifiers:
