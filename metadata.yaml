@@ -1,5 +1,5 @@
 _repo: Joseph-II-and-His-Court-An-Historical-Novel_3793
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Chaudron, A. de V. (Adelaide de Vendel)
@@ -43,5 +43,6 @@ subjects:
 - !lcsh 'Joseph II, Holy Roman Emperor, 1741-1790 -- Fiction'
 - !lcsh 'Holy Roman Empire -- History -- Joseph II, 1765-1790 -- Fiction'
 - !lcc 'PT'
+- GITenberg
 title: 'Joseph II. and His Court: An Historical Novel'
 url: http://www.gutenberg.org/ebooks/3793
